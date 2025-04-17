@@ -1,5 +1,5 @@
-👋 Hi, I’m @Ajay Kamath
+👋 Hello there wanderer
 
-I'm an aspiring software developer, currently a final year Information science engineering student 
+I’m @Ajay Kamath, a software developer 
 
 Please feel free to check out my projects and clone them, raise issues and submit PRs if you think something could be better
